@@ -13,7 +13,8 @@
         <div class="navbar-header">
             <a class="navbar-brand" href="index.php" title='Painel administrativo'>ADMIN</a>
             <a class="navbar-brand" href="?p=views/categorias/list.php">Categorias</a>
-			<a class="navbar-brand" href="?p=views/noticias/list.php">Notícias</a>
+			<a class="navbar-brand" href="?p=views/filmes/list.php">Filmes</a>
+			<a class="navbar-brand" href="?p=views/diretores/list.php">Diretores</a>
         </div>
  
     </div>
